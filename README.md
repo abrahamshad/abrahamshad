@@ -8,6 +8,7 @@
 - 🎉 I currently have 5 Laravel packages that are being used in commercial systems.
 - ✍️ I write about Laravel, PHP and other web developments topics on the [Page ](#) blog.
 - ⚡ I'm open to collaborating on other Laravel projects.
+- ⚡ Also as a WordPress developer I can help you with this.
 - 🥅 2022 Goal: Contribute to more open-source projects.
 
 ### Languages and Tools
