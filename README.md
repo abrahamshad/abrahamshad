@@ -1,42 +1,57 @@
-### Hey, I'm Abraham Shadafrough! 👋
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Abraham][website]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
+[<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-## I'm a Python developer
-- 💥 I build systems and websites for businesses using Python.
-- 🖥 I have contributed to [Python](#) and other open-source projects.
-- ✍️ I write about Django, Python and other web developments topics on the [Page ](#) blog.
-- ⚡ I'm open to collaborating on other Python projects.
-- 🥅 2022 Goal: Contribute to more open-source projects.
+## I'm a Software Engineer and YouTuber
 
-### Languages and Tools
+- Creator of the [Yocto Skills][youtube] YouTube channel 
+- I create free educational content about Python and Machine Learning
+- On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more
+- I also post articles on my [Website][website]
+- If you want to connet with more Python and ML enthusiasts you can join my [Discord server][discord]
+- For most tutorials the corresponding code is here on GitHub
 
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Vue JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<br />
-<br />
+If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ?sub_confirmation=1) to my channel 😊
 
 ---
 
-### ⚡ My Open Source Projects
+## Popular YouTube Videos 📺 
+
 
 
 ---
 
-### 📘 Some of My Blog Posts
+## My GitHub Stats 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadafrough&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafrough&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadafrough&show_icons=true&hide_border=true" />
-
+[twitter]: #
+[youtube]: https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
 [website]: #
-[facebook]: #
+[devto]: #
 [instagram]: #
-[linkedin]: #
+[discord]: #
+
+---
+
+## Connect With Me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
+
+<br />
+
+---
+## Support Me!
+You can show support by starring my repos, liking and sharing my videos, and [subscribing](https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ?sub_confirmation=1) to my channel.
+
+Thank you all so much 🙏
