@@ -6,7 +6,7 @@
 
 ## I'm a Software Engineer and YouTuber
 
-- Creator of the Python Engineer YouTube channel
+- Creator of the Yocto Skills YouTube channel
 - I create free educational content about Python and Machine Learning
 - On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more
 - I also post articles on my Website
