@@ -5,6 +5,8 @@
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 ## I'm a Software Engineer and YouTuber
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-gZdV_sJWBF8FPlz21yptQ?label=Connect%20With%20Me%20On%20Youtube&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/YoctoSkills?label=Connect%20With%20Me%20On%20Twitter&style=social)
 
 - Creator of the Yocto Skills YouTube channel
 - I create free educational content about Python and Machine Learning
