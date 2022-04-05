@@ -9,8 +9,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/YoctoSkills?label=Connect%20With%20Me%20On%20Twitter&style=social)
 
 - Creator of the Yocto Skills YouTube channel
-- I create free educational content about Python and Machine Learning
-- On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more
+- I create free educational content about Python
+- On my channel you find complete FREE courses about Python and much more
 - I also post articles on my Website
 - For most tutorials the corresponding code is here on GitHub
 - If you enjoy my content, I would be very happy if you subscribe to my channel blush
