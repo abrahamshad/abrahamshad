@@ -35,7 +35,7 @@ https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafrough&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: 
+[twitter]: #
 [youtube]: https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
 [website]: #
 [devto]: #
