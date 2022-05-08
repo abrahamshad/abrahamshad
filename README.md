@@ -4,18 +4,17 @@
 [<img height="30" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />][devto]
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-## I'm a Software Engineer and YouTuber
+## I'm a Software Developer ‧ Startup 🚀
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-gZdV_sJWBF8FPlz21yptQ?label=Connect%20With%20Me%20On%20Youtube&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YoctoSkills?label=Connect%20With%20Me%20On%20Twitter&style=social)
 
-- Creator of the Yocto Skills YouTube channel
+- Creator of the Python Schools YouTube channel
 - I create free educational content about Python
 - On my channel you find complete FREE courses about Python and much more
 - I also post articles on my Website
 - For most tutorials the corresponding code is here on GitHub
 - If you enjoy my content, I would be very happy if you subscribe to my channel blush
 
-Have something interesting to discuss? Drop me a DM on Twitter 📨 (@YoctoSkills) https://twitter.com/YoctoSkills
 
 My Youtube Channel : 
 https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
@@ -36,7 +35,7 @@ https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafrough&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: https://twitter.com/YoctoSkills
+[twitter]: 
 [youtube]: https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
 [website]: #
 [devto]: #
