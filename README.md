@@ -35,11 +35,11 @@ https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadafrough&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: #
+[twitter]: https://twitter.com/codewithabraham
 [youtube]: https://www.youtube.com/channel/UC-gZdV_sJWBF8FPlz21yptQ
 [website]: #
 [devto]: #
-[instagram]: #
+[instagram]: https://www.instagram.com/codewithabraham
 [discord]: #
 
 ---
