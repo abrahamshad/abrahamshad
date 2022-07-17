@@ -7,12 +7,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-gZdV_sJWBF8FPlz21yptQ?label=Connect%20With%20Me%20On%20Youtube&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YoctoSkills?label=Connect%20With%20Me%20On%20Twitter&style=social)
 
-- Creator of the Code with Abraham YouTube channel
-- I create free educational content about Software Developer
-- On my channel you find complete FREE courses about Programming and much more
-- I also post articles on my Website
-- For most tutorials the corresponding code is here on GitHub
-- If you enjoy my content, I would be very happy if you subscribe to my channel blush
+- Sharing what I know about Full Stack Web development with the primary Focus being Python, Django & Javascript at the time. I will be creating Project based tutorials for these Languages/Frameworks/Libraries along with sharing my personal experience.
 
 
 My Youtube Channel : 
