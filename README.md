@@ -5,7 +5,7 @@
 
 ## I'm a Software Developer ‧ Startup 🚀
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-gZdV_sJWBF8FPlz21yptQ?label=Connect%20With%20Me%20On%20Youtube&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/YoctoSkills?label=Connect%20With%20Me%20On%20Twitter&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/codewithabraham?label=Connect%20With%20Me%20On%20Twitter&style=social)
 
 - Sharing what I know about Full Stack Web development with the primary Focus being Python, Django & Javascript at the time. I will be creating Project based tutorials for these Languages/Frameworks/Libraries along with sharing my personal experience.
 
